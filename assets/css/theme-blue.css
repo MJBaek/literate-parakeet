@@ -767,7 +767,7 @@ a:hover, a:focus, a:active { color: #be52f1; }
 .icn-with-txt.four.with-border { border-color: rgba(254, 162, 82, 0.3); }
 
 .slider-dot-item { background: #ccc0ef; color: #3c1c94; }
-.slider-dot-item:nth-child(2) { color: #3e59fe; background: #def7f3; }
+.slider-dot-item:nth-child(2) { color: #2bc9b4; background: #def7f3; }
 .slider-dot-item:nth-child(3) { color: #49adf3; background: #dbeffd; }
 .slider-dot-item:nth-child(4) { color: #f2801c; background: #fce6d2; }
 .slider-dot-item:nth-child(5) { color: #ea64c6; background: #fbe0f4; }
